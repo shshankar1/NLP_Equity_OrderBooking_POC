@@ -1,0 +1,20 @@
+order,OrderType
+buy 5000 infosys share at market price,BUY
+sell mahindra 400 unit @ 340,SELL
+pick 20 tatamotors from market at CMP,BUY
+add TCS to my portfolio 300 units @ 1200,BUY
+"L&T purchase @ CMP, quantity 300",BUY
+invest 50000 in MindTree at market rate,BUY
+offload 200 positions in infy at day closing price,SELL
+3000 TCS shares release at cmp,SELL
+remove complete position of M&M from my portfolio @ 450,SELL
+Buy Google 560 share at market price,BUY
+Sell Apple 670 unit @ 340,SELL
+Pick 2000 TataMotors from market at CMP,BUY
+Add TCS to my portfolio 400 units @ 1200,BUY
+"L&T purchase @ CMP, quantity 300",BUY
+Invest 5000 in MindTree at market rate,BUY
+Offload 200 positions in infy at day closing price,SELL
+3000 tcs shares release at cmp,SELL
+Clear off complete position of M&M from my portfolio @ 450,SELL
+
